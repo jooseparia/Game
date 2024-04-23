@@ -1,7 +1,7 @@
 This project is a snake game.
 ### Games rules.
 - The snake is the green dot and you move him with the arrow keys.
-- The snkae will die if he runs into a wall or into himself.
+- The snake will die if he runs into a wall or into himself.
 - The snake will get longer if he eats a red fruit.
 - The more fruit you eat the bigger the score gets.
 - The score is in the top left cornor written in yellow.
