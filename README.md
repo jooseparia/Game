@@ -7,6 +7,6 @@ This project is a snake game.
 - The score is in the top left cornor written in yellow.
 ### How to run the game.
 - To start the game you have to paste the code into Thonny and there press "run current script".
-- When you lose the game you have and you want to play again you have to run the current scrpit again.
+- When you lose the game and you want to play again you have to run the current scrpit again.
 
 This project was made by Joosep Aria, Riivo Meremaa and Marten Nõmmküla.
