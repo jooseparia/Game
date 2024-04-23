@@ -10,3 +10,4 @@ This project is a snake game.
 - When you lose the game and you want to play again you have to run the current scrpit again.
 
 This project was made by Joosep Aria, Riivo Meremaa and Marten Nõmmküla.
+joosep.aria@voco.ee  riivo.meremaa@voco.ee  marten.nommkula@voco.ee
